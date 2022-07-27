@@ -1,5 +1,5 @@
 # INM701 : Predicting Data Science and STEM Salaries
-## Joel Davis, Priyanka Velagala
+Joel Davis, Priyanka Velagala
 
 # Overview 
 For our analysis of artificial intelligence techniques, we have selected a dataset composed of
