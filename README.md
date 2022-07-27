@@ -1,6 +1,8 @@
 # INM701 : Predicting Data Science and STEM Salaries
 Joel Davis, Priyanka Velagala
 
+For full report, see: [INM701-Coursework-Final Report.pdf](https://github.com/PriyankaVelagala/Predicting-STEM-Salaries/blob/main/INM701-Coursework-Final%20Report.pdf) 
+
 # Overview 
 For our analysis of artificial intelligence techniques, we have selected a dataset composed of
 user-entered salary data from www.levels.fyi, a site for those employed in STEM industries to
