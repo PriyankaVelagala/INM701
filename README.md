@@ -1,4 +1,4 @@
-# INM701
+# INM701 : Predicting Data Science and STEM Salaries
 ## Joel Davis, Priyanka Velagala
 
 # Overview 
